@@ -1,4 +1,6 @@
 # ASCII Video
+![Thumbnail](https://github.com/22yeets22/ASCII-Video/blob/main/ASCII-Video.png?raw=true "Thumbnail")
+
 ## A fun & lightweight image --> ASCII converter
 Turn your webcam feed into an ASCII art display in real-time! This project takes input from your webcam, processes it, and renders it as ASCII characters in a colorful display with pure Python and OpenCV!
 
