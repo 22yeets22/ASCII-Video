@@ -15,5 +15,5 @@ Turn your webcam feed into an ASCII art display in real-time! This project takes
     - pygame
     - tkinter (comes pre-installed with Python on most systems)
 
-## Example
-
+## Demo
+![Demo](https://github.com/22yeets22/ASCII-Video/blob/main/demo.png?raw=true "Demo")
