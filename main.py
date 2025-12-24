@@ -4,7 +4,7 @@ import numpy as np
 from tkinter import Tk
 from tkinter.messagebox import showinfo
 
-# ASCII characters from dark to light
+# ASCII characters from light to dark
 CHAR_SET = """ `.-':_,^=;><+!rc*/z?sLTv)J7(|Fi{C}fI31tlu[neoZ5Yxjya]2ESwqkP6h9d4VpOGbUAKXHm8RD#$Bg0MNWQ%&@"""
 CELL_SIZE = 5
 
@@ -111,3 +111,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
