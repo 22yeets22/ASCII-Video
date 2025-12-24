@@ -1,4 +1,5 @@
 # ASCII Video
+A fun program to turn your webcam feed to ASCII!
 ![Thumbnail](https://github.com/22yeets22/ASCII-Video/blob/main/ASCII-Video.png?raw=true "Thumbnail")
 
 ## A fun & lightweight image --> ASCII converter
